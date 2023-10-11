@@ -22,4 +22,4 @@ npm start
 
 # Reference
 
-https://github.com/phemex/phemex-api-docs/blob/master/Public-Contract-API-en.md
+https://phemex-docs.github.io/#overview
