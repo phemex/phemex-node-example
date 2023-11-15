@@ -8,6 +8,6 @@ module.exports = {
   /** Prod **/
   api_host: 'api.phemex.com',
   ws_host: 'ws.phemex.com',
-  apiKey: 'your-prod-apiKey',
+  api_key: 'your-prod-apiKey',
   secret: 'your-prod-secret',
 };
