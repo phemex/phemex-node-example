@@ -1,10 +1,10 @@
 (async function main() {
-  // await loadMarkets();
+  await loadMarkets();
   // await loadOrderbook('BTCUSD');
   // await loadTrades('BTCUSD');
   // await loadActiveOrders('BTCUSD');
   // await placeOrder();
-  await cancelOrder();
+  // await cancelOrder();
 })();
 
 async function loadMarkets() {
